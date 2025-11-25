@@ -67,7 +67,7 @@ const AboutUs: React.FC = () => {
     >
       {/* Hero Section */}
       <div className="relative bg-linear-to-r from-orange-600 to-red-600 text-white">
-        <div className="max-w-7xl mx-auto px-4 lg:px-8 py-20">
+        <div className="max-w-7xl mx-auto px-4 lg:px-8 py-32">
           <div className="text-center">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">
               Welcome to Our Kitchen
